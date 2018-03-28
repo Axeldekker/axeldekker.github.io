@@ -4985,7 +4985,7 @@ article[class*="type-"] .entry-content .entry-footer .social > li  > a:hover {
 	/* - SlidePanel */
 	.slidepanel {
 		display: none;
-		border-bottom: 1px solid #8a9b0f;
+		border-bottom: 1px solid #333;
 	}
 	.slideit,
 	.toggle {
