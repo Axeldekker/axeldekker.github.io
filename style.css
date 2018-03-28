@@ -2039,8 +2039,7 @@ article[class*="type-"] .entry-content .entry-footer .social > li  > a:hover {
 	content: "";
 }
 .blog-single article[class*="type-"]  .entry-header .post-meta > span > a {
-	color: #717171;
-	text-transform: uppercase;
+	color: #333;
 	text-decoration: none;
 }
 
