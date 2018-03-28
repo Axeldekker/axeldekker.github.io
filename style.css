@@ -4405,15 +4405,25 @@ article[class*="type-"] .entry-content .entry-footer .social > li  > a:hover {
 .widget_advertise  .carousel-inner .carousel-caption h3 {
 	font-size: 24px;
 	line-height: 0.83;
-	color: #ffffff;
+	color: #000;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 }
+
+.widget_advertise  .carousel-inner .carousel-caption h4 {
+	font-size: 24px;
+	line-height: 0.83;
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
 .widget_advertise  .carousel-inner .carousel-caption p {
 	font-size: 14px;
 	line-height: 1.42;
-	color: #ffffff;
+	color: #fee51e;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
