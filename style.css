@@ -344,8 +344,7 @@ h1,h2,h3,h4,h5,h6,p,a,li,span {
 	text-align: center;
 }
 .top-header .logo-block > a > img {
-	max-height: 30px;
-	max-width: 200px;
+	
 }
 .top-header .top-right {
 	width: 100%;
