@@ -24,8 +24,8 @@
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
-  --bs-primary: #2937f0;
-  --bs-secondary: #9f1ae2;
+  --bs-primary: #010061;
+  --bs-secondary: #010061;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
@@ -2949,8 +2949,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #2937f0;
-  border-color: #2937f0;
+  background-color: #010061;
+  border-color: #010061;
 }
 .btn-primary:hover {
   color: #fff;
@@ -10843,7 +10843,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+  background: linear-gradient(45deg, #010061, #010061) !important;
 }
 
 .font-alt {
@@ -10851,7 +10851,7 @@ html {
 }
 
 .text-gradient {
-  background: -webkit-linear-gradient(#2937f0, #9f1ae2);
+  background: -webkit-linear-gradient(#010061, #010061);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
